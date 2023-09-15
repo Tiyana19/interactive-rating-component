@@ -30,9 +30,9 @@ Users should be able to:
 
 ![Desktop-Size](images/desktop-preview.png)
 
-![Mobile-Size](images/mobile-preview.png)
-
 ![Active-State](images/active-state.png)
+
+![Mobile-Size](images/mobile-preview.png)
 
 ### Links
 
